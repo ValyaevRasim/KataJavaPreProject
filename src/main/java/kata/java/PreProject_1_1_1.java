@@ -1,0 +1,7 @@
+package kata.java;
+
+public class PreProject_1_1_1 {
+    public static void main(String[] args) {
+        System.out.println("Hello Worlds");
+    }
+}
